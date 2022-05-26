@@ -11,3 +11,9 @@
 - [Gimnazija - III razred - Računarstvo i informatika](https://github.com/orgs/Petlja/repositories?q=topic%3Agimnazija+topic%3Atreci-srednje&sort=name)
 - [Gimnazija - IV razred - Računarstvo i informatika](https://github.com/orgs/Petlja/repositories?q=topic%3Agimnazija+topic%3Acetvrti-srednje&sort=name)
 - [Specijalna IT odeljenja](https://github.com/orgs/Petlja/repositories?q=topic%3Aspec-it&sort=name)
+
+## Softver otvorenog koda
+
+- [PetljaDoc](https://github.com/Petlja/PetljaDoc)
+- [Pygame module for Skulpt](https://github.com/Petlja/pygame4skulpt)
+- [PygameBg](https://github.com/Petlja/PygameBg)
