@@ -1,4 +1,4 @@
-# Otvoreni obrazovne resurse i softver otvorenog koda
+# Otvoreni obrazovni resursi i softver otvorenog koda
 
 ## Otvoreni obrazovni resursi za osnovnu školu i gimnaziju
 
