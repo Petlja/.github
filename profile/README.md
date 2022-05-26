@@ -10,4 +10,4 @@
 - [Gimnazija - II razred - Računarstvo i informatika](https://github.com/orgs/Petlja/repositories?q=topic%3Agimnazija+topic%3Adrugi-srednje)
 - [Gimnazija - III razred - Računarstvo i informatika](https://github.com/orgs/Petlja/repositories?q=topic%3Agimnazija+topic%3Atreci-srednje)
 - [Gimnazija - IV razred - Računarstvo i informatika](https://github.com/orgs/Petlja/repositories?q=topic%3Agimnazija+topic%3Acetvrti-srednje)
-- [Specijalna IT odeljenja]((https://github.com/orgs/Petlja/repositories?q=topic%3Aspec-it)
+- [Specijalna IT odeljenja](https://github.com/orgs/Petlja/repositories?q=topic%3Aspec-it)
